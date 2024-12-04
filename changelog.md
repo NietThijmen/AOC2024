@@ -15,3 +15,6 @@ Day three: Why is this so easy, HOW DID WE GO FROM DAY TWO TO THIS?
 THIS ISN'T FAIR
 
 WE ACTUALLY WENT FROM A CITY BURNING DOWN TO A SIMPLE REGEX PROBLEM
+
+# 04/12/2024
+Day four: Part one was kinda easy, I kinda just cheated on part 2 and did a lookup map.
